@@ -1,5 +1,5 @@
 # my name : **Kashinde Saidi Mweleza**
-# program: ** mict-edu 2A**
+# program: **mict-edu 2A**
 # reg no: **14325945/T.24**
 # System name:**Student Management System**
        description of the system
