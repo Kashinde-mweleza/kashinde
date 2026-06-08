@@ -1,6 +1,6 @@
-# my name :**Kashinde Saidi Mweleza **
+# my name : **Kashinde Saidi Mweleza**
 # program: ** mict-edu 2A**
-# reg no:**14325945/T.24**
+# reg no: **14325945/T.24**
 # System name:**Student Management System**
        description of the system
            is web based application designed to manage and organize student information efficiently.The system provide a centralized platform where administractor can register students.
